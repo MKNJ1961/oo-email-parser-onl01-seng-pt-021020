@@ -5,5 +5,8 @@
 class EmailAddressParser
 
   def initialize(str)
+    @parse = str
   end
+
+  
 end
