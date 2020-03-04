@@ -8,8 +8,3 @@ class EmailParser
   initialize(emails)
   @email = emails
 end
-
-
-
-
-
