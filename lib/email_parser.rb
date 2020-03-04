@@ -8,5 +8,5 @@ class EmailAddressParser
     @parse = str
   end
 
-  
+
 end
